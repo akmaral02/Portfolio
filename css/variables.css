@@ -1,0 +1,18 @@
+:root {
+  /* Font Family */
+  --main-family: "Apparel , san-serif";
+
+  /* Font size */
+
+  --header-size: 40px;
+  --main-size: 20px;
+
+  /* Colors */
+
+  --main-color: #25384f;
+  --second-color: #cdcdc3;
+  --colorOf: #435670;
+  --colorOfP: #c67366;
+  --colorOfT: #e59e85;
+  --colorOfY: #9e9e9b;
+}
